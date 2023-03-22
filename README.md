@@ -1,4 +1,4 @@
-#Olá meu nome é Vinicius Itakura
+**###Olá meu nome é Vinicius Itakura**
 ## Bem vindo ao meu perfil GitHub 👋
 
 ### **Sobre mim 😄**
