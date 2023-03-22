@@ -13,4 +13,5 @@ Atualmente, possuo certificados de cursos na área de front-end, incluindo HTML 
 Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias e ferramentas na área de desenvolvimento web. Estou em constante evolução, dedicando-me a cursos e projetos tanto na faculdade quanto por conta própria.
 
 **Tecnologias**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
