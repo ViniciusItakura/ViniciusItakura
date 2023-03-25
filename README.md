@@ -1,7 +1,7 @@
 # **Olá meu nome é Vinicius Itakura**
 ## Bem vindo ao meu perfil GitHub 👋
 
-(https://github-readme-stats.vercel.app/api?username=ViniciusItakura)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusItakura)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **Sobre mim 😄**
 Meu nome é Vinicius Itakura, sou estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná e tenho 18 anos. Estou em busca constante de conhecimento na área de desenvolvimento web, especialmente na parte de front-end.
