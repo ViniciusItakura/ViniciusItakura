@@ -8,7 +8,7 @@ Meu nome é Vinicius Itakura, sou estudante de Engenharia de Software na Univers
 
 
 ### **Experiência e habilidades ⚡**
-Atualmente, possuo certificados de cursos na área de front-end, incluindo HTML e CSS pelo curso da Origamid e UI & UXDesign. Já tenho conhecimento em HTML e CSS, e estou aprimorando minhas habilidades em Javascript. Consigo criar um site básico utilizando HTML e CSS, e também desenvolver layouts para sites utilizando Figma.
+Atualmente, possuo certificados de cursos na área de front-end, incluindo HTML e CSS pelo curso da Origamid e UI & UXDesign. Já tenho conhecimento em HTML e CSS, e estou aprimorando minhas habilidades em Javascript. Consigo criar um site responsivo utilizando HTML e CSS, e também desenvolver layouts para sites utilizando Figma.
 
 
 ### **O que estou aprendendo 🌱**
@@ -17,3 +17,5 @@ Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias 
 **Tecnologias**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
