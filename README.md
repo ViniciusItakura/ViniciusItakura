@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusItakura&hide=prs,issues,contribs&show_icons=true&theme=radical)
 
 ### **Sobre mim 😄**
-Meu nome é Vinicius Itakura, sou estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná e tenho 18 anos. Estou em busca constante de conhecimento na área de desenvolvimento web, especialmente na parte de front-end.
+Meu nome é Vinicius Itakura, sou estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná. Estou em busca constante de conhecimento na área de desenvolvimento web, especialmente na parte de front-end.
 
 
 ### **Experiência e habilidades ⚡**
