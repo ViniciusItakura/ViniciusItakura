@@ -1,23 +1,62 @@
-# **Olá meu nome é Vinicius Itakura**
-## Bem vindo ao meu perfil GitHub 👋
+# **Olá, eu sou o Vinicius Itakura** 🚀
+### **Software Engineer**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusItakura&hide=prs,issues,contribs&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusItakura&hide=prs,issues,contribs&show_icons=true&theme=radical&include_all_commits=true" alt="Status do GitHub" />
+</div>
 
-### **Sobre mim 😄**
-Meu nome é Vinicius Itakura, sou estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná. Estou em busca constante de conhecimento na área de desenvolvimento web, desde o front-end até o back-end.
+---
 
+### **Sobre Mim 😄**
+Sou graduando em **Engenharia de Software** pela **Universidade Tecnológica Federal do Paraná (UTFPR)**. Atuo como Engenheiro de Software, com foco sólido no desenvolvimento de aplicações robustas, escaláveis e de alta performance. 
 
-### **Experiência e habilidades ⚡**
-Atualmente, possuo certificados de cursos, como HTML e CSS pelo curso da Origamid e UI & UXDesign. Já tenho conhecimento em HTML e CSS, e estou aprimorando minhas habilidades em Javascript. Consigo criar um site responsivo utilizando HTML e CSS, e também desenvolver layouts para sites utilizando Figma.
-Tenho conhecimento de criação de banco de dados com MySQL, manipulação do banco com Node.js e Express.js.
+Minha paixão está em resolver problemas complexos de arquitetura de software, construir ecossistemas eficientes no back-end e integrar soluções de ponta para otimizar fluxos de trabalho e negócios.
 
+---
 
-### **O que estou aprendendo 🌱**
-Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias e ferramentas na área de desenvolvimento web. Estou em constante evolução, dedicando-me a cursos e projetos tanto na faculdade quanto por conta própria.
-Tecnologias que estou estudando no momento: JavaScript e React.js
+### **Experiência e Foco Técnico ⚡**
 
-### **Tecnologias**
+* **Arquitetura & Back-end:** Desenvolvimento focado em microsserviços tolerantes a falhas e consistência de dados, aplicando padrões de arquitetura avançados como **CQRS**, **SAGA (Orquestração e Coreografia)** e sistemas multitenancy.
+* **Integrações Avançadas:** Experiência prática na construção de automações corporativas complexas.
+* **Front-end & UX:** Criação de interfaces modernas, responsivas e dinâmicas, conectando perfeitamente a experiência do usuário com regras de negócio complexas.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-          
+---
+
+### **Tecnologias e Arquitetura 🛠️**
+
+#### **Linguagens e Frameworks**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="AngularJS" title="AngularJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
+</p>
+
+#### **Bancos de Dados, Mensageria e Ferramentas**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+</p>
+
+#### **Padrões de Arquitetura e Conceitos**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Microsserviços-2C2255?style=for-the-badge&logo=microservices&logoColor=white" alt="Microsserviços" />
+  <img src="https://img.shields.io/badge/-CQRS-005571?style=for-the-badge&logo=databricks&logoColor=white" alt="CQRS" />
+  <img src="https://img.shields.io/badge/-Multitenancy-4B32C3?style=for-the-badge&logo=awsorganizations&logoColor=white" alt="Multitenancy" />
+  <img src="https://img.shields.io/badge/-APIs%20REST-007396?style=for-the-badge&logo=json&logoColor=white" alt="APIs REST" />
+</p>
+
+---
+
+### **Conecte-se comigo 🤝**
+
+* **LinkedIn:** [https://www.linkedin.com/in/vinicius-itakura/]
+* **E-mail:** [viniciusitakura1@gmail.com]
+
+---
+<div align="center">
+  <i>"Transformando lógica complexa em sistemas eficientes e escaláveis."</i>
+</div>
