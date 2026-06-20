@@ -1,10 +1,6 @@
 # **Olá, eu sou o Vinicius Itakura** 🚀
 ### **Software Engineer**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusItakura&hide=prs,issues,contribs&show_icons=true&theme=radical&include_all_commits=true" alt="Status do GitHub" />
-</div>
-
 ---
 
 ### **Sobre Mim 😄**
